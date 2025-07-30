@@ -33,6 +33,7 @@ let n = "Nathan";
 let years = 11;
 let intro = `My name is ${n} and I am ${years} years old.`;
 console.log(intro); // this code is so good
+
 let city = "New York";
 let weather = "sunny";
 
@@ -43,3 +44,25 @@ console.log(`The weather in ${city} is ${weather}.`);
 // another way to do
 // Output: The weather in New York is sunny.
 // how to connect with bactick like this ``.
+
+let str1 = "Hello"; // Hello
+let str2 = "World"; // World
+
+let result = str1.concat(" ", str2);
+console.log(result); // "Hello World"
+
+let full = "Good".concat(" ", "morning", "!", " 😊");
+console.log(full); // "Good morning! 😊"
+
+let words = ["JavaScript", "is", "awesome"];
+let sentence = words.join(" ");
+console.log(sentence); // "JavaScript is awesome"
+
+let csv = ["one", "two", "three"].join(",");
+console.log(csv); // "one,two,three"
+
+let a = 100;
+let b = 200;
+
+let combined = a.toString() + b.toString();
+console.log(combined); // "100200"
