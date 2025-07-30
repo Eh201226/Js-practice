@@ -24,9 +24,19 @@ A **string** in JavaScript is a data type used to represent text. It is a sequen
 let name = "Ali";
 let message = 'Hello';
 let greeting = `Welcome, ${name}!`;
----
+```
 
 Let me know if you want a section on **string methods** (like `.length`, `.toUpperCase()`, etc.) next.
+## 📦 What is an Array in JavaScript?
+
+An **array** in JavaScript is a data structure used to store multiple values in a single variable. Each item in an array has a numeric index, starting from `0`. Arrays can hold values of any type, including numbers, strings, booleans, objects, and even other arrays.
+
+### 🔹 Example:
+```javascript
+let fruits = ["apple", "banana", "mango"];
+console.log(fruits[0]); // "apple"
+
+
 
 
 
