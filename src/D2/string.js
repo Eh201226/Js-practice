@@ -31,6 +31,15 @@ console.log(chat); // "Hello, world!" // Concatenation using += operator
 
 let n = "Nathan";
 let years = 11;
-
 let intro = `My name is ${n} and I am ${years} years old.`;
-console.log(intro); // this code is so good 
+console.log(intro); // this code is so good
+let city = "New York";
+let weather = "sunny";
+
+console.log("The weather in " + city + " is " + weather + ".");
+// Concatenation using + operator
+// Output: The weather in New York is sunny.
+console.log(`The weather in ${city} is ${weather}.`);
+// another way to do
+// Output: The weather in New York is sunny.
+// how to connect with bactick like this ``.
