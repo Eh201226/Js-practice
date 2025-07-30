@@ -14,7 +14,12 @@ console.log(fullName)
 
 console.log(firstName, space, middleName, lastName, motherName, sisterName, age, bornIn, countryLive, job)
 
-let greeting = "Hi";
-let name = 'Nathan';
-let message = `${greeting} ${name}, how are you?`;
+let greeting = "Hi"
+let name = 'Nathan'
+let message = `${greeting} ${name}, how are you?`
 console.log( message)
+  firstName = "Nathan"
+  lastName = "Desalegn"
+   fullName = firstName + " " + lastName
+
+console.log(fullName); // "Nathan Desalegn"
