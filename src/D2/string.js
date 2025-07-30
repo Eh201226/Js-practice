@@ -28,3 +28,9 @@ chat += ", ";
 chat += "world!";
 console.log(chat); // "Hello, world!" // Concatenation using += operator
 // i didn't know this opreator before, but it is very useful for concatenating strings in a more readable way.  
+
+let n = "Nathan";
+let years = 11;
+
+let intro = `My name is ${n} and I am ${years} years old.`;
+console.log(intro); // this code is so good 
