@@ -35,9 +35,21 @@ An **array** in JavaScript is a data structure used to store multiple values in 
 ```javascript
 let fruits = ["apple", "banana", "mango"];
 console.log(fruits[0]); // "apple"
+```
 
-
-
+## Markdown cheatsheet 
+|   Element | Markdown syntax |
+| ----------- | ----------- |
+| h1 | # |
+| h2 | ## |
+| h3 | ### |
+| h4 | #### |
+| h5 | ##### |
+| h6 | ###### |
+| bold | ** ** |
+| italic | * * |
+| unordered list | - |
+| link | [title](https://www.example.com) |
 
 
 
