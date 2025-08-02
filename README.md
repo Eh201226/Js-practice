@@ -36,4 +36,15 @@ An **array** in JavaScript is a data structure used to store multiple values in 
 let fruits = ["apple", "banana", "mango"];
 console.log(fruits[0]); // "apple"
 ```
+## how to know javascript?
+✅ **Example Code**
+```javascript example
+// A simple function to greet a user
+function greet(name) {
+  console.log(`Hello, ${name}!`);
+}
+
+greet("Alice"); // Output: Hello, Alice!
+```
+
 
