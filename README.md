@@ -50,6 +50,5 @@ console.log(fruits[0]); // "apple"
 | italic | * * |
 | unordered list | - |
 | link | [title](https://www.example.com) |
-
-
-
+| ordered list | 1. 2. 3. |
+| image | ![alt text](image.jpg) |
