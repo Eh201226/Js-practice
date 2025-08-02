@@ -46,42 +46,13 @@ function greet(name) {
 
 greet("Alice"); // Output: Hello, Alice!
 ```
-# 📝 To-Do List App
+## how to use javascript?
+```js
+function sayHello() {
+  alert("Hello from external JavaScript file!");
+}
+```
 
-A simple web-based To-Do List built with **HTML**, **CSS**, and **JavaScript**. It allows users to add, delete, and mark tasks as completed.
 
----
-
-## 🚀 Features
-
-- Add new tasks
-- Delete tasks
-- Mark tasks as completed
-- Data saved in local storage (persists on refresh)
-
----
-
-## 🖥️ Demo
-
-![Screenshot](./screenshot.png)
-
-Try the live demo: [https://yourusername.github.io/todo-list-app](https://yourusername.github.io/todo-list-app)
-
----
-
-## 🛠️ Built With
-
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
-- Local Storage API
-
----
-
-## 📦 Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
 
 
